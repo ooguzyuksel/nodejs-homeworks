@@ -1,0 +1,1 @@
+# Git komutları için bu bir test branchdir.
